@@ -1,7 +1,5 @@
 package com.civious.dungeonmmo.api;
 
-import com.civious.dungeonmmo.DungeonMMO;
-
 public class DungeonMMOAPI {
     private static DungeonMMOAPI instance = new DungeonMMOAPI();
 
