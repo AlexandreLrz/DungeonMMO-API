@@ -53,30 +53,6 @@
         </dependency>
 
         <dependency>
-            <groupId>com.civious</groupId>
-            <artifactId>obteam</artifactId>
-            <version>1.0</version>
-            <scope>system</scope>
-            <systemPath>/Users/alexandrelarzilliere/Dev/Minecraft/paper-1.19/plugins/OBTeam.jar</systemPath>
-        </dependency>
-
-        <dependency>
-            <groupId>com.civious</groupId>
-            <artifactId>ouranos</artifactId>
-            <version>1.0</version>
-            <scope>system</scope>
-            <systemPath>/Users/alexandrelarzilliere/Dev/Minecraft/paper 1.20.4/plugins/Ouranos.jar</systemPath>
-        </dependency>
-
-        <dependency>
-            <groupId>com.civious</groupId>
-            <artifactId>Nebula</artifactId>
-            <version>1.0</version>
-            <scope>system</scope>
-            <systemPath>/Users/alexandrelarzilliere/Dev/Minecraft/paper-1.19/plugins/Nebula.jar</systemPath>
-        </dependency>
-
-        <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-all</artifactId>
             <version>4.1.5.Final</version>
