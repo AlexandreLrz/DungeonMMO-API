@@ -9,7 +9,5 @@ public class DungeonMMOAPI {
         return instance;
     }
 
-    public void registerItemProvider(String providerName, ItemProvider provider) {
-        DungeonMMO.getInstance().getItemProviderManager().registerProvider(providerName, provider);
-    }
+    public void registerItemProvider(String providerName, ItemProvider provider) {}
 }
